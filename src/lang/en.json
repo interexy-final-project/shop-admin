@@ -1,0 +1,76 @@
+{
+  "errors": {
+    "email": "This field should be email",
+    "required": "This field is required"
+  },
+  "language": {
+    "russian": "Russian",
+    "english": "English"
+  },
+  "signin": {
+    "signin": "Sign in",
+    "email": "Email Address",
+    "password": "Password"
+  },
+  "notFoundPage": {
+    "oops": "Oops! Page not found",
+    "back": "Back to Home Page",
+    "unavalible": "The page you are looking for might have been removed or temporarily unavailable."
+  },
+  "orderTable": {
+    "userName":"User Name",
+    "total": "Total",
+    "status": "Status",
+    "paymentMethod": "Payment method",
+    "address": "Address",
+    "archive": "Archive"
+  },
+  "createForm": {
+    "title": "Product Information",
+    "name": "Name",
+    "amount": "Amount",
+    "price": "Price",
+    "category": "Category",
+    "man": "Men",
+    "woman": "Women",
+    "children": "Children",
+    "type": "Type",
+    "jeans": "Jeans",
+    "shirt": "Shirts",
+    "tshirt": "T-Shirts",
+    "sizes": "Sizes",
+    "xs": "XS",
+    "s": "S",
+    "m": "M",
+    "colors": "Colors",
+    "black": "Black",
+    "white": "White",
+    "blue": "Blue",
+    "red": "Red",
+    "hipGirth": "Hip Girth",
+    "sleeveLength": "Sleeve Length",
+    "waistGirth": "Waist Girth",
+    "status": "Status",
+    "active": "Active",
+    "archived": "Archived",
+    "description": "Description",
+    "images": "Image",
+    "submit": "Submit",
+    "cancel": "Cancel"
+  },
+  "productsTable": {
+    "product":"Product",
+    "price": "Price",
+    "category": "Category",
+    "status": "Status",
+    "amount": "Amount",
+    "description": "Description",
+    "view": "View",
+    "addProduct": "Add new product",
+    "archive":"Archive"
+  },
+  "admin": {
+    "products": "Products",
+    "orders": "Orders"
+  }
+}
